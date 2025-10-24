@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Basava B M  👋
 
-🌱 I’m currently learning Devops Tools and Genrative AI<br><br>👨‍💻 I’m currently Looking For Job<br><br>📑 Check out my resume here - My Resume<br><br>💻 All of my projects are available on GitHub<br><br>💬 Ask me about Devops Tools like, AWS. K8s. Docker. CI/CD. Git & GitHub  and Gen AI<br><br>📫 Reach out to me at Basavabm30@gmail.com<br><br>
+🌱 I’m currently learning Devops Tools and Genrative AI<br><br>👨‍💻 I’m currently Looking For Job<br><br>💻 All of my projects are available on GitHub<br><br>💬 Ask me about Devops Tools like, AWS. K8s. Docker. CI/CD. Git & GitHub  and Gen AI<br><br>📫 Reach out to me at Basavabm30@gmail.com<br><br>
 
 
 ## 🌐 Socials:
