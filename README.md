@@ -1,4 +1,4 @@
-## Hi 👋, I'm Basava B M  👋
+## Hai 👋, I'm Basava B M  👋
 
 🌱 I,m currently Working in DataScience and  AI<br><br>👨‍💻 I’m currently Learning Python & SQL <br><br>💻 All of my projects are available on GitHub<br><br>💬 Ask me about Devops Tools like, AWS. K8s. Docker. CI/CD. Git & GitHub, Python, SQL and Gen AI <br><br>📫 Reach out to me at Basavabm30@gmail.com<br><br>
 
