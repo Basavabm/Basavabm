@@ -1,6 +1,6 @@
 ## Hai 👋, I'm Basava B M  👋
 
-🌱 I,m currently Working in Devops Engineer @HOURLYRECRUIT TECH LABS<br><br>👨‍💻 I’m currently Learning Python & DEVOPS & AI <br><br>💻 All of my projects are available on GitHub<br><br>💬 Ask me about Devops Tools like, AWS. K8s. Docker. CI/CD. Git & GitHub, Python, SQL and Gen AI <br><br>📫 Reach out to me at Basavabm30@gmail.com<br><br>
+🌱 I,m currently Working in Devops Engineer @HOURLYRECRUIT TECH LABS<br><br>👨‍💻 I’m currently Learning  DEVOPS & AIOPS,MLOPS,LLMOPS <br><br>💻 All of my projects are available on GitHub<br><br>💬 Ask me about Devops Tools like, AWS. K8s. Docker. CI/CD. Git & GitHub <br><br>📫 Reach out to me at Basavabm30@gmail.com<br><br>
 
 
 ## 🌐 Socials:
